@@ -4,3 +4,7 @@ This is a fictional site on Google Glass, where I learned how to develop front-e
 
 Meu primeiro projeto web desenvolvido no curso "Curso em vídeo -  HTML "
 Trata-se de um site fictício sobre o Google Glass, onde eu aprendi as principáis técnicas de desenvolvimento Front-end (HTML,CSS e Javascript), desde adicionar imagens e videos até efeitos com javascript.
+
+my goal now is to add responsiveness to the site, with new techniques I've learned with css-grid and flexbox.
+
+meu objetivo agora é adicionar responsividade ao site, com tecnicas novas que aprendi com css-grid e flexbox.
