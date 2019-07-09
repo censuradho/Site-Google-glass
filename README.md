@@ -1,4 +1,6 @@
 # Site-Google-glass
+
+## À fins decomparação com futuros projetos, ou seja, ter um parãmetro do quanto eu venho evoluindo.
 My first web project developed in the course "Course in video - HTML"
 This is a fictional site on Google Glass, where I learned how to develop front-end development techniques (HTML, CSS and Javascript), from images and videos, to effects with javascript.
 
